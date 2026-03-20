@@ -11,3 +11,4 @@ HTML practice files, exercises, and mini-projects built while learning web devel
     <li>Attributes</li>
   </ul>
 </details>
+ I didn't studied today 
