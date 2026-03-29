@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+    
+    <style>
+        /* This applies to the whole page */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* This styles the main container box */
+        .container {
+            background-color: white;
+            max-width: 600px;
+            margin: 0 auto; /* Centers the box on the screen */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* This styles the main heading */
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        /* This styles the paragraph text */
+        p {
+            line-height: 1.6;
+        }
+
+        /* This styles the interactive button */
+        .my-button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #3498db;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+        /* This changes the button color when you hover over it */
+        .my-button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+    </head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to My Webpage!</h1>
+        <hr>
+        <p>This is a basic example showing how <strong>HTML</strong> and <strong>CSS</strong> work together. HTML handles the actual words and structure, while CSS makes it look beautiful with colors, spacing, and layouts.</p>
+        
+        <p>Here is a list of things you can do with CSS:</p>
+        <ul>
+            <li>Change background and text colors.</li>
+            <li>Adjust fonts and text sizes.</li>
+            <li>Create spacing (padding and margins).</li>
+            <li>Add shadows and rounded corners.</li>
+        </ul>
+
+        <a href="#" class="my-button">Click Me!</a>
+    </div>
+    </body>
+</html>
