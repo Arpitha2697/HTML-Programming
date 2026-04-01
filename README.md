@@ -1,4 +1,4 @@
-# 🗒️ HTML-Programming
+# 🗒️HTML-Programming
 My collection of notes and projects for mastering HTML structure and semantics.
 HTML practice files, exercises, and mini-projects built while learning web development.
 <details>
