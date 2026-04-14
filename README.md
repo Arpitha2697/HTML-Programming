@@ -2,7 +2,7 @@
 My collection of notes and projects for mastering HTML structure and semantics.
 HTML practice files, exercises, and mini-projects built while learning web development.
 <details>
-  <summary><b>~ The Building Blocks</b></summary>
+  <summary><b>~   The Building Blocks</b></summary>
   <ul>
     <li>Intro</li>
     <li>Editors</li>
